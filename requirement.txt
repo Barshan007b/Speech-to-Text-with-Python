@@ -1,0 +1,7 @@
+speechrecognition
+pyaudio
+
+⚠️ Note: pyaudio is needed to capture audio. If installation fails, use:
+```
+pip install pipwin
+pipwin install pyaudio
